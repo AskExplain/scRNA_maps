@@ -2,7 +2,7 @@
 
 The below figure displays 5 histology itssue slides. Each row represents single cells mapped to a grid in the X, Y, Z planes (dorsal-ventral, rostral-caudal, superior-inferior). Cell abundance is represented by the intensity of a dot - indicating density of gene expression in that region.
 
-The top 4 slides of observed gene expression in Spatial Transcriptomic data. Only the first column of these 4 are observed and trained on, the extra axes are predicted cell positions. 
+The top 4 slides are of gene expression observed in Spatial Transcriptomic data. Only the first column of these 4 are observed and trained on, the extra axes are predicted cell positions. 
 
 The bottom (5th and last) slide is predicted from scRNA-seq only of the dataset from the Allen Institute Data Challenge #2 (CAST) Critical Assessment through Spatially-resolved Transcriptomics. 
 
