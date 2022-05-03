@@ -1,5 +1,13 @@
 # Mapping scRNAseq to 3D Spatial Coordinates
 
+
+A brief talk of the slides is given at:
+
+https://www.youtube.com/watch?v=Dz9pyFZWd_M
+
+
+## Explanation 
+
 The below figure displays 5 histology tissue slides. Each row represents single cells mapped to a grid in the X, Y, Z planes (dorsal-ventral, rostral-caudal, superior-inferior). Cell abundance is represented by the intensity of a dot - indicating density of gene expression in that region.
 
 The top 4 slides are of gene expression observed in Spatial Transcriptomic data. Only the first column of these 4 are observed and trained on, the extra axes are predicted cell positions. 
@@ -18,9 +26,4 @@ Cell, Volume 184, Issue 12, 3222 - 3241.e26
 
 ![](https://raw.githubusercontent.com/AskExplain/scRNA_maps/main/scMaps/mouse___Olfm3.png)
 
-
-
-All information currently found at:
-
-https://github.com/AskExplain/scRNA_maps
 
